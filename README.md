@@ -284,7 +284,7 @@ Explicitly documenting these gaps — rather than guessing at answers the data c
 
 ## 👤 Author
 
-**(Yusuf Shotunde, LinkedIn- www.linkedin.com/in/yusuf-shotunde /GitHub- https://github.com/Yusinho)**
+**(Yusuf Shotunde, LinkedIn: www.linkedin.com/in/yusuf-shotunde / GitHub: https://github.com/Yusinho / CV: https://github.com/Yusinho/my-portfolio/blob/main/Yusuf_Lanre_Shotunde_CV.pdf )**
 
 ---
 
